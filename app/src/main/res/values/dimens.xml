@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="view_margin">5.3dp</dimen>
+    <dimen name="likes_padding_L_R">12dp</dimen>
+    <dimen name="default_padding">5.3dp</dimen>
+    <dimen name="subtitle">10sp</dimen>
+    <dimen name="min_space">2dp</dimen>
+</resources>

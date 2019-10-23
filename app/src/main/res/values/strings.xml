@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CC Photo Gallery</string>
+    <string name="grid">Grid</string>
+    <string name="list">List</string>
+    <string name="no_desc_img">No Description</string>
+    <string name="no_internet">No Internet</string>
 </resources>
